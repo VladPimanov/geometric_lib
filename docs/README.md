@@ -8,3 +8,7 @@
 - Circle: P = 2πR
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
+
+## Available modules
+- circle.py: circle area and perimeter.
+- square.py: square area and perimeter.
